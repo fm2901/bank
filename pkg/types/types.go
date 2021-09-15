@@ -6,7 +6,7 @@ type Money int64
 // Category of payment
 type Category string
 
-// Status of payment
+// Status of payments
 type Status string
 
 // Statuses of payments
